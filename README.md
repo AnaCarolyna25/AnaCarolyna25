@@ -4,9 +4,12 @@
 Estou estudando na [Alura](https://www.alura.com.br/)
 
 tenho 16 anos
-eu gosto de estudar, gosto de estar com a minha familia
+eu gosto de estudar
+
+gosto de estar com a minha familia
 
 pretento, me formar em medicina e me especializar em pediatria 
+
 
 entre em contato comigo(monteiro.oliveira.ana@escola.pr.gov.br)
 
